@@ -1,1 +1,1 @@
-Hello holberton school
+In the 0-hello ubuntu file is the "uname" answer that the ubuntu console gave me
